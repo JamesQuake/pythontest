@@ -1,6 +1,9 @@
-print("Hello World")
-print(1 + 2)
-print(7 * 6)
-print()
-print("The End")
-print("This is the new addition to code")
+print ("Today is a good day to learn Python")
+print ("Python is fun")
+print ("Python's string are easy to use")
+print ("hello" + "world")
+greeting = "Hello"
+name = input ("Please enter your name")
+print (greeting + name)
+# if we want a space, we can add that too
+print (greeting + '' + name)
