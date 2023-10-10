@@ -1,4 +1,14 @@
-print ("Number 1\tAmerican Elm")
-print ("Number 2\tSugar Maple")
-print ("Number 3\tRed Oak")
-print ("Number 4\tAmerican Beech")
+print("Today is a good day to learn Python")
+print('Python is fun')
+# Fixed the quotation mark
+print("Python's strings are easy to use")
+# Fixed the quotation mark and added "s" after string
+print('We can even include "quotes" in strings')
+# Fixed the quotation mark
+print("hello" + " world")
+greeting = "Hello"
+# Fixed the quotation mark
+name = input("Please enter your name ")
+print(greeting + name)
+# if we want a space, we can add that too
+print(greeting + ' ' + name)
